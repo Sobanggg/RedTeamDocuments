@@ -1,4 +1,3 @@
-# Pre-Attack (Recon & Resource Development)
 
 # 1-Weaponization
 
