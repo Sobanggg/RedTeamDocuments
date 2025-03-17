@@ -36,9 +36,6 @@
 - Use **[shodan.io](https://shodan.io)** to find internet-exposed services.
 - If you need a premium account, use an email associated with an American university.
 
-### Periodic Recon
-- Organizations you have contracts with (past, present, or potential future) should be regularly tested for security vulnerabilities.
-
 ### Active Port Scanning
 - Use multiple weak VPS servers for active scanning to reduce traceability.
 - Utilize **[RABITMQ](RabitMQ/)**:
@@ -56,6 +53,17 @@
   - [securitytrails](https://securitytrails.com)
   - [crt.sh](https://crt.sh)
   - [viewdns.info](https://viewdns.info)
+  - [sublist3rV2](https://github.com/hxlxmj/sublist3rV2)
+  - [sublist3rV2](https://github.com/hxlxmj/sublist3rV2)
+  - [amass](https://github.com/owasp-amass/amass)
+  ```bash
+amass.exe enum -d []
+amass.exe enum -ip -d []
+amass.exe enum -d [] -active
+amass.exe enum -brute -src -d []
+  ```
+
+
 
 ### Extracting Metadata from Documents
 - **FOCA (GitHub project)**: Extract metadata from leaked/stored documents to gather usernames and other sensitive information.
