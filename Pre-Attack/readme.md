@@ -1,4 +1,4 @@
-#Pre-Attack (Recon & Resource Development)
+# Pre-Attack (Recon & Resource Development)
 ## Overview
 Reconnaissance (Recon) is the process of gathering information about organizations, individuals, and services. This guide outlines various resources, tools, and techniques for conducting recon effectively.
 
