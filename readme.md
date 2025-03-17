@@ -9,7 +9,7 @@ This repository serves as a structured documentation of **Red Teaming** operatio
 - Outline commonly used tools and frameworks.
 
 ## Table of Contents
-1. [**Pre-Attack (Recon & Resource Development)**](Pre-Attack/README.md)
+1. [**Pre-Attack (Recon & Resource Development)**](Pre-Attack/)
 2. [**Initial Compromise & Execution**](Initial_Compromise/README.md)
 3. [**Privilege Escalation & Persistence**](Privilege_Escalation/README.md)
 4. [**Lateral Movement & Discovery**](Lateral_Movement/README.md)
