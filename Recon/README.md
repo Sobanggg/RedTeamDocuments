@@ -83,3 +83,12 @@ amass.exe enum -brute -src -d []
 ### Disclaimer
 This guide is for educational and ethical security research purposes only. Unauthorized access to systems is illegal. Always obtain proper authorization before performing any security assessments.
 
+## 2-3-internal Recon
+
+### netrowk Map
+1. first step running this command and save output 
+```bash
+netstat -nat
+```
+2. use [parser.py](parser.py/) to convert a netstar exports to csv file for gephi
+3. then use **[gephi](https://gephi.org/)** to write a network map 
