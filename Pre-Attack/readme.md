@@ -40,7 +40,7 @@
 - If you need a premium account, use an email associated with an American university.
 
 
-## 2-2active Recon
+## 2-2-active Recon
 
 
 ### Finding a Wider Range of IPs
@@ -71,7 +71,7 @@ amass.exe enum -brute -src -d []
   - Each VPS checks IPs and ports from the queue and returns results.
 
 ### Extracting Metadata from Documents
-- **FOCA (GitHub project)**: Extract metadata from leaked/stored documents to gather usernames and other sensitive information.
+- **[FOCA](https://github.com/ElevenPaths/FOCA)**: Extract metadata from leaked/stored documents to gather usernames and other sensitive information.
 - If **NTDS** (Windows Active Directory database) is obtained, it may provide full domain administrator access.
 
 ### Sending Trackers for Internal IP Discovery
