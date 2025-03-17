@@ -15,7 +15,7 @@
 
 # 2-Recon
 
-## passive Recon
+## 2-1-passive Recon
 
 ### Data Sources
 - **Fastflux Domain:** Domains from certain countries like Russia and China can help anonymize requests by forwarding them through multiple servers, making it harder to trace the origin.
@@ -40,7 +40,7 @@
 - If you need a premium account, use an email associated with an American university.
 
 
-## active Recon
+## 2-2active Recon
 
 
 ### Finding a Wider Range of IPs
