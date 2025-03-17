@@ -5,6 +5,6 @@
 ```bash
 netstat -nat
 ```
-- use parser.py to convert a netstar exports to csv file for gephi
+- use [parser.py](parser.py/) to convert a netstar exports to csv file for gephi
 
 - then use **[gephi](https://gephi.org/)** to write a network map 
