@@ -56,12 +56,13 @@
   - [sublist3rV2](https://github.com/hxlxmj/sublist3rV2)
   - [sublist3rV2](https://github.com/hxlxmj/sublist3rV2)
   - [amass](https://github.com/owasp-amass/amass)
-  ```bash
+
+```bash
 amass.exe enum -d []
 amass.exe enum -ip -d []
 amass.exe enum -d [] -active
 amass.exe enum -brute -src -d []
-  ```
+```
 
 
 
