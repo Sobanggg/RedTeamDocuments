@@ -41,7 +41,7 @@
 
 ### Active Port Scanning
 - Use multiple weak VPS servers for active scanning to reduce traceability.
-- Utilize **RABITMQ**:
+- Utilize **[RABITMQ](RabitMQ/)**:
   - Define a job queue in **rabitmq**.
   - Multiple **VPS instances** pull and process scanning tasks in parallel.
   - Each VPS checks IPs and ports from the queue and returns results.
